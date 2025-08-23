@@ -1,0 +1,38 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Build output directories
+/out/
+/target/
+/build/
+
+# Maven
+/logs/
+*.log
+*.class
+*.jar
+*.war
+*.ear
+*.db
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# Environment or config files
+.env
+*.env
+
+# Others
+*.swp
+*.swo
