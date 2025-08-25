@@ -1,9 +1,9 @@
-package com.codewithrj.patterns.singleton;
+package com.codewithrj.patterns.creational.singleton;
 
 public enum DatabaseConnectionEnum {
     INSTANCE;
 
-    private DatabaseConnectionEnum(){
+    DatabaseConnectionEnum(){
         System.out.println("Creating DatabaseConnectionEnum Enum instance");
     }
 }
