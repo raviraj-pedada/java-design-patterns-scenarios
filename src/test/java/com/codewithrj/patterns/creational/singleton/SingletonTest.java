@@ -1,4 +1,5 @@
-package com.codewithrj.patterns.singleton;
+package com.codewithrj.patterns.creational.singleton;
+
 
 import org.junit.jupiter.api.Test;
 

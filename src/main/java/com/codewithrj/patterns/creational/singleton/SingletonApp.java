@@ -1,4 +1,4 @@
-package com.codewithrj.patterns.singleton;
+package com.codewithrj.patterns.creational.singleton;
 
 public class SingletonApp {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package com.codewithrj.patterns.singleton;
+package com.codewithrj.patterns.creational.singleton;
 
 public class DatabaseConnectionThreadSafe {
     private static DatabaseConnectionThreadSafe instance;
